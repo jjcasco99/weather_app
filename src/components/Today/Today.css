@@ -1,0 +1,44 @@
+.today-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #1E213A;
+}
+ 
+.title a {
+    color: #E7E7EB;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.data-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.data-info img {
+    padding: 4rem 0;
+}
+
+.temperature {
+    color: #E7E7EB;
+    padding: 4rem 0;
+    font-size: 10rem;
+}
+
+.weather-state{
+    color: #A09FB1;
+    padding: 4rem 0;
+    font-size: 36px;
+}
+
+.day-style {
+    color: #88869D;
+    padding: 4rem 0;
+    font-size: 18px;
+}
+
+
+
+
+

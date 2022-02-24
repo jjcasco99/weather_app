@@ -1,0 +1,63 @@
+.global-highlights {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #E7E7EB;
+}
+
+.title-today {
+    margin-right: 30rem;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.first-flex {
+    display: flex;
+    padding: 3rem;
+}
+
+.second-flex {
+    display: flex;
+}
+
+.wind {
+    background: #1E213A;
+    padding: 3rem;
+    margin: 0 3rem;
+    width: 20.5rem;
+    height: 12.75rem;
+    text-align: center;
+}
+
+.humidity {
+    background: #1E213A;
+    padding: 3rem;
+    width: 20.5rem;
+    height: 12.75rem;
+    text-align: center;
+}
+
+.visibility {
+    background: #1E213A;
+    padding: 2.9rem;
+    margin: 0 3rem;
+    width: 20.5rem;
+    text-align: center;
+}
+
+.pressure {
+    background: #1E213A;
+    padding: 3rem;
+    width: 20.5rem;
+    text-align: center;
+}
+
+.same1-font-size {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.same2-font-size {
+    font-size: 50px;
+    font-weight: bold;
+}

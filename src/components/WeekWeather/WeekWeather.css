@@ -1,0 +1,17 @@
+.flexbox-weather {
+    display: flex;
+    justify-content: space-around;
+    background: #100E1D;
+}
+.today{
+    width: 50%;
+}
+.flex {
+    width: 100%;
+    padding: 3rem;
+    display: flex;
+}
+
+.today-highlights {
+    width: 100%;
+}

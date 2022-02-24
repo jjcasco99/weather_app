@@ -1,0 +1,42 @@
+.week-info {
+    background-color: antiquewhite;
+    width: 100%;
+    height: 22vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 2rem;
+    margin: 0 1rem;
+    background: #1E213A;
+}
+.week-info img {
+    width: 6rem;
+    height: 10vh;
+}
+
+.date-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.date {
+    color: #E7E7EB;
+    font-weight: bold;
+}
+
+.minmaxday-flex{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.max-temp {
+    color: #E7E7EB;
+    font-weight: bold;
+}
+
+.min-temp {
+    color: #A09FB1;
+    font-weight: bold;
+}
